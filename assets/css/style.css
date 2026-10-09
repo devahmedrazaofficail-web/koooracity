@@ -505,7 +505,7 @@ table.data td.time { direction: ltr; unicode-bidi: embed; font-weight: 700; }
   .main-nav {
     position: fixed; inset: 0 0 0 auto; width: min(320px, 85vw);
     background: #0b1220; border-left: 1px solid var(--border);
-    transform: translateX(-110%);
+    transform: translateX(110%);
     transition: transform 0.25s ease;
     padding: 4.5rem 1.5rem 1.5rem; z-index: 99;
   }
