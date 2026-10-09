@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://koracity.com/</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://koracity.com/matches</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://koracity.com/results</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://koracity.com/leagues</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://koracity.com/league-saudi</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://koracity.com/league-ucl</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://koracity.com/news</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://koracity.com/news/ronaldo-alnassr-deriyah</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://koracity.com/news/thmanyah-saudi-rights</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://koracity.com/news/european-weekend-preview</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://koracity.com/tv-guide</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://koracity.com/about</loc><lastmod>2026-10-09</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://koracity.com/contact</loc><lastmod>2026-10-09</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://koracity.com/privacy</loc><lastmod>2026-10-09</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://koracity.com/matches-tomorrow</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://koracity.com/matches-yesterday</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://koooracity.vercel.app/</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://koooracity.vercel.app/matches</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://koooracity.vercel.app/results</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://koooracity.vercel.app/leagues</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://koooracity.vercel.app/league-saudi</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://koooracity.vercel.app/league-ucl</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://koooracity.vercel.app/news</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://koooracity.vercel.app/news/ronaldo-alnassr-deriyah</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://koooracity.vercel.app/news/thmanyah-saudi-rights</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://koooracity.vercel.app/news/european-weekend-preview</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://koooracity.vercel.app/tv-guide</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://koooracity.vercel.app/about</loc><lastmod>2026-10-09</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://koooracity.vercel.app/contact</loc><lastmod>2026-10-09</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://koooracity.vercel.app/privacy</loc><lastmod>2026-10-09</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://koooracity.vercel.app/matches-tomorrow</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://koooracity.vercel.app/matches-yesterday</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://koracity.com/sitemap.xml
+Sitemap: https://koooracity.vercel.app/sitemap.xml
