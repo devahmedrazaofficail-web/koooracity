@@ -535,3 +535,19 @@ table.data td.time { direction: ltr; unicode-bidi: embed; font-weight: 700; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* ---------- Day switcher (yesterday / today / tomorrow) ---------- */
+.day-switcher {
+  display: flex; gap: 0.6rem; justify-content: center;
+  flex-wrap: wrap; margin-bottom: 1.8rem;
+}
+.day-switcher a {
+  padding: 0.55rem 1.5rem; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--surface);
+  color: var(--muted); font-weight: 700; font-size: 0.95rem;
+  text-decoration: none !important; transition: all 0.15s ease;
+}
+.day-switcher a:hover { color: var(--text); border-color: var(--green); }
+.day-switcher a[aria-current="page"] {
+  background: var(--green); border-color: var(--green); color: #04140a;
+}
